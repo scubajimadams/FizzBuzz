@@ -1,0 +1,8 @@
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\bin\Debug\conFizzBuzz.exe.config
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\bin\Debug\conFizzBuzz.exe
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\bin\Debug\conFizzBuzz.pdb
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\bin\Debug\clFizzBuzz.dll
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\bin\Debug\clFizzBuzz.pdb
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\obj\Debug\conFizzBuzz.exe
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\obj\Debug\conFizzBuzz.pdb
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\conFizzBuzz\obj\Debug\conFizzBuzz.csprojResolveAssemblyReference.cache

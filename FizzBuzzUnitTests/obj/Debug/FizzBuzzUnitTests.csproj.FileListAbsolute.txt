@@ -1,0 +1,7 @@
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\bin\Debug\FizzBuzzUnitTests.dll
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\bin\Debug\FizzBuzzUnitTests.pdb
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\bin\Debug\clFizzBuzz.dll
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\bin\Debug\clFizzBuzz.pdb
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\obj\Debug\FizzBuzzUnitTests.csprojResolveAssemblyReference.cache
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\obj\Debug\FizzBuzzUnitTests.dll
+c:\users\james_k_adams\documents\visual studio 2013\Projects\clFizzBuzz\FizzBuzzUnitTests\obj\Debug\FizzBuzzUnitTests.pdb
